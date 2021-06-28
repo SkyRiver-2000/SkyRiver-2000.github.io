@@ -56,4 +56,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Refer to my formal CV [here](../files/CV.pdf)
+[Click here](../files/CV.pdf) to view my formal CV.
