@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Here is a brief list of my honors and awards:
+
 * **Apr. 2021:** Outstanding Winner of Problem D, ICM 2021. [Click here](../files/2021-ICM-D-Outstanding.pdf) to view the certificate.
 
 * **Dec. 2020:** China National Scholarship, 2019-2020 academic year. [Click here](../files/2019-2020-national.pdf) to view the certificate.
