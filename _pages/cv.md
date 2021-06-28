@@ -15,12 +15,12 @@ Education
 
 Experience
 ======
-* 2019.10-2021.01: Research Assistant
+* **2019.10-2021.01: Research Assistant**
   * Data Communication and Engineering (DCE) lab
   * Topic: Spatial crowdsourcing
   * Advisor: Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
-* 2021.01-present: Research Assistant
+* **2021.01-present: Research Assistant**
   * APEX Data & Knowledge Management lab
   * Topic: Imitation learning, Model-based RL
   * Advisor: Prof. [Weinan Zhang](https://wnzhang.net)
@@ -39,7 +39,7 @@ Projects
 ======
 * **2021.05-2021.06: Data Mining and Predicting on *AceMap***
 
-This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called AceMap. Our group proposes simple and effective solutions and achieves an outstanding performance.
+This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called *AceMap*. Our group proposes simple and effective solutions and achieves an outstanding performance.
 
 **Codes:** [click here](https://github.com/SkyRiver-2000/EE226-Final-Project) to visit our GitHub repository  
 **Paper:** [click here](../files/EE226-report.pdf) for our complete paper
