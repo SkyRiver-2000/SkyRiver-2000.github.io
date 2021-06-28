@@ -18,10 +18,10 @@ author_profile: true
 ### 2021.05-2021.06: Data Mining and Predicting on AceMap
 This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called AceMap. Our group proposed simple and effective solutions and achieve strong performance on Kaggle competitions.
 
-**Our code:** [click here](https://github.com/SkyRiver-2000/EE226-Final-Project) to visit our GitHub repository  
-**Our paper:** [click here](../files/EE226-report.pdf) for our complete paper
+**Codes:** [click here](https://github.com/SkyRiver-2000/EE226-Final-Project) to visit our GitHub repository  
+**Paper:** [click here](../files/EE226-report.pdf) for our complete paper
 
 ### 2020.05-2020.06: Imitation Learning for Control in 2048 Games
 This is the final project for course *EE228*, *Machine Learning (AI)*, in SJTU. We are required to train an agent with supervisions from the Expectimax, a powerful planning based agent, to achieve high scores in an 2048 game. I combine two convolution architectures into a novel one, fine tune the parameters, and obtain one of the most powerful agent in the class.
 
-**My code:** [click here](https://github.com/SkyRiver-2000/EE228-Final-Assignment) to visit my GitHub repository
+**Codes:** [click here](https://github.com/SkyRiver-2000/EE228-Final-Assignment) to visit my GitHub repository
