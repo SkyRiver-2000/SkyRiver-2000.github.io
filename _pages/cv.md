@@ -13,7 +13,7 @@ Education
 ======
 * I am now pursuing **Bachelor's Degree** in Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net).
 
-Work experience
+Experience
 ======
 * 2019.10-2021.01: Research Assistant
   * Data Communication and Engineering (DCE) lab
