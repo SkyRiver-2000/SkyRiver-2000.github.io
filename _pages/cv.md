@@ -11,36 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* I am now pursuing **Bachelor's Degree** in Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.10-2021.01: Research Assistant
+  * Data Communication and Engineering (DCE) lab
+  * Topic: Spatial crowdsourcing
+  * Advisor: Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.01-present: Research Assistant
+  * APEX Data & Knowledge Management lab
+  * Topic: Imitation learning, Model-based RL
+  * Advisor: Prof. [Weinan Zhang](https://wnzhang.net)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Theory of statistical machine learning
+* Python programming and mainstream machine learning package
+  * Deep learning: PyTorch, Keras
+  * Machine learning: scikit-learn
+  * Data analysis: Numpy, Pandas, Scipy
+* Some other programming languages: C/C++, MATLAB
+* Academic writing using LaTeX, Origin, etc.
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>v
   
 Talks
 ======
@@ -48,12 +47,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Refer to my formal CV at [here](../files/CV.pdf)
