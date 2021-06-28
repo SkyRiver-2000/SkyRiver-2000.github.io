@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single-project.html %}
 {% endfor %} -->
 
-# Projects
-
 ### 2021.05-2021.06: Data Mining and Predicting on AceMap
 This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called AceMap. Our group proposed simple and effective solutions and achieve strong performance on Kaggle competitions.
 
