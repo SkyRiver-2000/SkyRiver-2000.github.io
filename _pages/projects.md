@@ -22,6 +22,12 @@ This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. W
 **Codes:** [click here](https://github.com/SkyRiver-2000/EE226-Final-Project) to visit our GitHub repository  
 **Paper:** [click here](../files/EE226-report.pdf) for our solution paper
 
+* **2021.03-2021.05: MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning**
+
+MALib is a parallel framework of population-based learning nested with (multi-agent) reinforcement learning (RL) methods. I mainly focus on the implementation of some imitation learning metrics and algorithms, which have not been released yet (might come up soon).
+
+**Codes:** [click here](https://github.com/sjtu-marl/malib) to visit our GitHub repository
+
 * **2020.05-2020.06: Imitation Learning for Control in 2048 Games**
 
 This is the final project for course *EE228*, *Machine Learning (AI)*, in SJTU. We are required to train an agent with supervisions from the Expectimax, a powerful planning based agent, to achieve high scores in an 2048 game. I combine two convolution architectures into a novel one, fine tune the parameters, and obtain one of the most powerful agent in the class.
