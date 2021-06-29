@@ -36,7 +36,7 @@ Skills
 * Academic writing using LaTeX, Origin, etc.
 * Decent English (CET6: 608)
 
-Projects
+<!-- Projects
 ======
 * **2021.05-2021.06: Data Mining and Predicting on *AceMap***
 
@@ -61,6 +61,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 [Click here](../files/CV.pdf) to view my formal CV.
