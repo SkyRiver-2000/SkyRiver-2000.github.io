@@ -31,6 +31,8 @@ This is the final project for course *EE228*, *Machine Learning (AI)*, in SJTU. 
 # Other Projects
 * **2021.03-2021.06: Batch Recognition of Book Labels on Mobile Devices**
 
-This is the final project for course *EE225*, *Intelligent Internet of things*, in SJTU. We are required to build a real-time system to recognize the book labels and corresponding book numbers. We use a two-stage scheme: localize the book labels first, and then generate subfigures for optical character recognition (OCR). Our localization model is based on [NanoDet](https://github.com/RangiLyu/nanodet) and our OCR is based on [Tesseract](https://github.com/tesseract-ocr/tesseract).
+This is the final project for course *EE225*, *Intelligent Internet of things*, in SJTU. We are required to build a real-time system to recognize the book labels and corresponding book numbers. We use a two-stage scheme: localize the book labels first, and then generate subfigures for optical character recognition (OCR).
+
+Our localization model is based on [NanoDet](https://github.com/RangiLyu/nanodet) and our OCR is based on [Tesseract](https://github.com/tesseract-ocr/tesseract). For better computation speed, we implement an adapative multi-thread OCR algorithm.
 
 **Slides:** [click here](../files/EE225_project.pdf) for our presentation slides.
