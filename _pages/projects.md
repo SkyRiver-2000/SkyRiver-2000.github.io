@@ -35,4 +35,4 @@ This is the final project for course *EE225*, *Intelligent Internet of things*, 
 
 Our localization model is based on [NanoDet](https://github.com/RangiLyu/nanodet) and our OCR is based on [Tesseract](https://github.com/tesseract-ocr/tesseract). For better computation speed, we implement an adapative multi-thread OCR algorithm.
 
-**Slides:** [click here](../files/EE225_project.pdf) for our presentation slides.
+**Slides:** [click here](../files/EE225-project.pdf) for our presentation slides.
