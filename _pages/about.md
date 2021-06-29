@@ -16,7 +16,7 @@ In my spare time, I like:
 * Playing electronic games, especially racing and moba ones
 * Thinking and discussing machine learning problems
 
-I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can discover lots of patterns in massive data and help humans alleviates working loads.
+I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can discover lots of patterns in massive data and help to alleviate humans' working loads.
 
 I am now an undergraduate research advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), and I am looking for a chance to be a master candidate in the department of computer science. If you are interested in communicating with me, feel free to contact through [E-mail](mailto:skyriver@sjtu.edu.cn).
 
