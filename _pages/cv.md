@@ -34,15 +34,22 @@ Skills
   * Data analysis: Numpy, Pandas, Scipy
 * Some other programming languages: C/C++, MATLAB
 * Academic writing using LaTeX, Origin, etc.
+* Decent English (CET6: 608)
 
 Projects
 ======
 * **2021.05-2021.06: Data Mining and Predicting on *AceMap***
 
-This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called *AceMap*. Our group proposes simple and effective solutions and achieves an outstanding performance.
+This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called *AceMap*. My group proposes simple and effective solutions and achieves an outstanding performance.
 
 **Codes:** [click here](https://github.com/SkyRiver-2000/EE226-Final-Project) to visit our GitHub repository  
-**Paper:** [click here](../files/EE226-report.pdf) for our complete paper
+**Paper:** [click here](../files/EE226-report.pdf) for our solution paper
+
+* **2021.03-2021.05: MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning**
+
+MALib is a parallel framework of population-based learning nested with (multi-agent) reinforcement learning (RL) methods. I mainly focus on the implementation of some imitation learning metrics and algorithms, which have not been released yet (might come up soon).
+
+**Codes:** [click here](https://github.com/sjtu-marl/malib) to visit our GitHub repository
 
 * **2020.05-2020.06: Imitation Learning for Control in 2048 Games**
 
