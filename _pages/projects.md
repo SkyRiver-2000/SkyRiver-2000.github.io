@@ -24,7 +24,7 @@ This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. W
 **Paper:** [click here](../files/EE226-report.pdf) for our solution paper
 
 &nbsp;  
-* **2021.03-2021.05: MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning**
+* **2021.02-2021.05: MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning**
 
 MALib is a parallel framework of population-based learning nested with (multi-agent) reinforcement learning (RL) methods. I mainly focus on the implementation of some imitation learning metrics and algorithms, which have not been released yet (might come up soon).
 
