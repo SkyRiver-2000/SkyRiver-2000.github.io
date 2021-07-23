@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: ""
 permalink: /cv/
@@ -34,7 +34,7 @@ Skills
   * Data analysis: Numpy, Pandas, Scipy
 * Some other programming languages: C/C++, MATLAB
 * Academic writing using LaTeX, Origin, etc.
-* Decent English (CET6: 608) -->
+* Decent English (CET6: 608)
 
 <!-- Projects
 ======
@@ -63,6 +63,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- [Click here](../files/CV.pdf) to view my formal CV. -->
+[Click here](../files/CV.pdf) to view my formal CV.
 
-<iframe src="../files/CV.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<!-- <iframe src="../files/CV.pdf" style="width: 100%;height: 100%;border: none;"></iframe> -->
