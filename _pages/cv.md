@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ======
-* **2018.09-present: Information Engineering, Shanghai Jiao Tong University**
+* **2018.09-present: Information Engineering, SJTU**
   * Overall Grade: 90.52 / 100 (Ranking: 3<sup>rd</sup> / 148)
   * Pursuing Bachelor's Degree, advised by Prof. [Weinan Zhang](https://wnzhang.net).
 
 Experience
 ======
-* **2019.10-2021.01: Research Assistant**
-  * Data Communication and Engineering (DCE) lab
+* **2019.10-2021.01: Research Assistant, DCE lab**
   * Topic: Spatial crowdsourcing
   * Advisor: Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
-* **2021.01-present: Research Assistant**
-  * APEX Data & Knowledge Management lab
+* **2021.01-present: Research Assistant, APEX lab**
   * Topic: Imitation learning, Model-based RL
   * Advisor: Prof. [Weinan Zhang](https://wnzhang.net)
   
