@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my friend! I am Ruiwen Zhou, a junior undergraduate majoring in information engineering at SJTU, and a member of Zhiyuan Honor Program in Engineering.
+Hi, my friend! I am Ruiwen, a junior undergraduate majoring in information engineering at SJTU, and a member of Zhiyuan Honor Program in Engineering.
 
 In my spare time, I love:
 * Listening to and playing music (I love classic and pop. music)
@@ -18,7 +18,7 @@ In my spare time, I love:
 
 I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can discover lots of patterns in massive data and help to alleviate humans' working loads.
 
-I am now an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), and I desire a chance to be a master candidate in the department of computer science. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
+As an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), I am now pursueing admissions of CS/AI master programs in mainland China. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
