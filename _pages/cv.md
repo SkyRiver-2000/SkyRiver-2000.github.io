@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* I am now pursuing **Bachelor's Degree** in Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net).
+* **2018.09-present:** Information Engineering, Shanghai Jiao Tong University
+  * Overall Grade: 90.52 / 100 (Ranking: 3<sup>rd</sup> / 148)
+  * Pursuing **Bachelor's Degree**, advised by Prof. [Weinan Zhang](https://wnzhang.net).
 
 Experience
 ======
