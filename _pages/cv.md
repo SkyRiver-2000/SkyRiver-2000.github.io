@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **2018.09-present:** Information Engineering, Shanghai Jiao Tong University
+* **2018.09-present: Information Engineering, Shanghai Jiao Tong University**
   * Overall Grade: 90.52 / 100 (Ranking: 3<sup>rd</sup> / 148)
-  * Pursuing **Bachelor's Degree**, advised by Prof. [Weinan Zhang](https://wnzhang.net).
+  * Pursuing Bachelor's Degree, advised by Prof. [Weinan Zhang](https://wnzhang.net).
 
 Experience
 ======
