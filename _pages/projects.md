@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Open Source Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,9 +13,9 @@ author_profile: true
 
 {% for post in site.projects reversed %}
   {% include archive-single-project.html %}
-{% endfor %} -->
+{% endfor %}
 
-&nbsp;  
+<!-- &nbsp;  
 * **2021.05-2021.06: Data Mining and Predicting on *AceMap***
 
 This is the final project for course *EE226*, *Big Data Mining (AI)*, in SJTU. We are required to conduct node classification and link prediction tasks on an academic citation network called *AceMap*. My group proposes simple and effective solutions and achieves an outstanding performance.
@@ -46,4 +46,4 @@ This is the final project for course *EE225*, *Intelligent Internet of Things*, 
 
 Our localization model is based on [NanoDet](https://github.com/RangiLyu/nanodet) and our OCR is based on [Tesseract](https://github.com/tesseract-ocr/tesseract). For better computation speed, we implement an adapative multi-thread scheduling algorithm for OCR.
 
-**Slides:** [click here](../files/EE225-project.pdf) for our presentation slides.
+**Slides:** [click here](../files/EE225-project.pdf) for our presentation slides. -->
