@@ -17,6 +17,7 @@ en: &DEFAULT_EN
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
   date_label                 : "Published:"
+  period_label               : "Period:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
   more_label                 : "Learn More"
