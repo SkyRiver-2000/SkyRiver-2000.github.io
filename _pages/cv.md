@@ -63,6 +63,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-[Click here](../files/CV.pdf) to view my formal CV.
+My formal CV: [English Version](../files/CV-en.pdf), [Chinese Version](../files/CV.pdf)
 
 <!-- <iframe src="../files/CV.pdf" style="width: 100%;height: 100%;border: none;"></iframe> -->
