@@ -18,6 +18,6 @@ In my spare time, I love:
 
 I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can discover lots of patterns in massive data and help to alleviate humans' working loads.
 
-At present I am an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), and I will join the department of CSE at SJTU as a master candidate from 2022 Fall. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
+At present I am an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), and I will join the department of CSE at SJTU as a master candidate by 2022 Fall. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
 
 <!-- As an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), I am now pursueing admissions of CS/AI master programs in mainland China. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn). -->
