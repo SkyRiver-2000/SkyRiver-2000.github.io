@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my friend! I am Ruiwen, a senior undergraduate majoring in information engineering at SJTU, and a member of Zhiyuan Honor Program in Engineering.
+Hi, my friend! I am Ruiwen, a first-year master student at the department of computer science and engineering at SJTU.
 
 In my spare time, I love:
 * Listening to and playing music (I love classic and pop. music)
@@ -18,4 +18,4 @@ In my spare time, I love:
 
 I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can discover lots of patterns in massive data and help to alleviate humans' working loads.
 
-At present I am an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), and I will join the department of CSE at SJTU as a master student by 2022 Fall. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
+At present I am a researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
