@@ -19,16 +19,16 @@ Education
 
 Experience
 ======
-* **2019.10-2021.01: Researcher, DCE lab**
+* **2019.10-2021.01: Researcher, DCE Lab**
   * Topic: Spatial Crowdsourcing
   * Advisor: Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
-* **2021.01-present: Researcher, APEX lab**
-  * Topic: Imitation Learning, Model-based RL
+* **2021.01-present: Researcher, APEX Lab**
+  * Topic: Data Mining, Reinforcement Learning
   * Advisor: Prof. [Weinan Zhang](https://wnzhang.net)
 
 * **2021.09-2022.01: Research Intern, MSRA ML Group**
-  * Topic: Risk-Sensitive RL
+  * Topic: Risk-Sensitive Reinforcement Learning
   * Advisor: Prof. [Kan Ren](https://saying.ren)
 
 * **2022.02-Present: Research Intern, Amazon Shanghai AI Lab**
