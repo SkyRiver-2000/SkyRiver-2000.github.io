@@ -12,8 +12,8 @@ main:
   - title: "Awards"
     url: /honors-awards/
         
-  - title: "Talks"
-    url: /talks/
+#   - title: "Talks"
+#     url: /talks/
     
   - title: "CV"
     url: /cv/
