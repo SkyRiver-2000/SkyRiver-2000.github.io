@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my friend! I am Ruiwen, a first-year master student at the department of computer science and engineering at SJTU.
+Hi, my friend! I am Ruiwen, a first-year master student at the department of computer science and engineering at Shanghai Jiao Tong University.
 
 In my spare time, I love:
 * Listening to and playing music (I love classic and pop. music)
