@@ -29,7 +29,7 @@ Experience
 
 * **2021.09-2022.01: Research Intern, MSRA ML Group**
   * Topic: Risk-Sensitive Reinforcement Learning
-  * Advisor: Prof. [Kan Ren](https://saying.ren)
+  * Advisor: Prof. [Kan Ren](https://www.saying.ren)
 
 * **2022.02-Present: Research Intern, Amazon Shanghai AI Lab**
   * Topic: Graph Neural Networks, Data Mining
