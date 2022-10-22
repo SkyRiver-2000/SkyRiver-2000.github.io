@@ -21,19 +21,19 @@ Experience
 ======
 * **2019.10-2021.01: Researcher, DCE Lab**
   * Topic: Spatial Crowdsourcing
-  * Advisor: Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
+  * Advisor: [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/)
 
 * **2021.01-present: Researcher, APEX Lab**
   * Topic: Data Mining, Reinforcement Learning
-  * Advisor: Prof. [Weinan Zhang](https://wnzhang.net)
+  * Advisor: [Weinan Zhang](https://wnzhang.net)
 
 * **2021.09-2022.01: Research Intern, MSRA ML Group**
   * Topic: Risk-Sensitive Reinforcement Learning
-  * Advisor: Prof. [Kan Ren](https://www.saying.ren)
+  * Advisor: [Kan Ren](https://www.saying.ren)
 
 * **2022.02-Present: Research Intern, Amazon Shanghai AI Lab**
   * Topic: Graph Neural Networks, Data Mining
-  * Advisor: Prof. [Quan Gan](https://www.amazon.science/author/quan-gan)
+  * Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
   
 Skills
 ======
