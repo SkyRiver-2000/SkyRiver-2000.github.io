@@ -13,7 +13,7 @@ Hi, my friend! I am Ruiwen, a second-year master student at the Department of Co
 * LLMs + X (music, control, etc.) applications.
 
 In my spare time, I love:
-* Listening to and playing music (I love most kinds of music: pop. songs, musicals, and piano)
+* Listening to and playing music (I love pop. songs, musicals, piano, etc.)
 * Thinking and discussing interesting problems
 * Going out for short walks
 
