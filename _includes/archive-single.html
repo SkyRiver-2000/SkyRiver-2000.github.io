@@ -40,8 +40,10 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif post.collection == 'publications' and post.date %}
+          <p>In <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ post.venue }} preprint </p>
         {% elsif post.collection == 'projects' %}
           <p><strong>Period:</strong> {{ post.period }}</p>
         {% elsif post.date %}
