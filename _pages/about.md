@@ -13,10 +13,10 @@ Hi, my friend! I am Ruiwen, a second-year master student at the Department of Co
 * LLMs + X (music, control, etc.) applications.
 
 In my spare time, I love:
-* Listening to and playing music (I love most kinds of music, e.g. pop. songs, musicals, and piano)
+* Listening to and playing music (I love most kinds of music: pop. songs, musicals, and piano)
 * Thinking and discussing interesting problems
 * Going out for short walks
 
 I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can help to alleviate humans' working loads and spark humans' creative inspirations.
 
-At present I am a researcher advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
+I am now seeking for a summer research internship starting in 2024 and a PhD position starting from Sep 2025. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
