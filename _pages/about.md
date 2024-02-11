@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my friend! I am Ruiwen, a second-year master student at the Department of Computer Science and Engineering at Shanghai Jiao Tong University. Under the supervision of Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), I conduct research about:
+Hello! I am Ruiwen, a second-year master student at the Department of Computer Science and Engineering in Shanghai Jiao Tong University. Under the supervision of Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn), I conduct research about:
 * Learning from environment feedback with LLMs.
 * Retrieval-augmented LLM agents.
 * LLMs + X (music, control, etc.) applications.
