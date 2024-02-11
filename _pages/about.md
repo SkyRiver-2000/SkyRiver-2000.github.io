@@ -19,4 +19,4 @@ In my spare time, I love:
 
 I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can help to alleviate humans' working loads and spark humans' creative inspirations.
 
-I am now seeking for a summer research internship starting in 2024 and a PhD position starting from Sep 2025. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
+I am now seeking for a summer research internship in 2024 and a PhD position (2025 fall). If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
