@@ -34,11 +34,13 @@ Experience
   
 Skills
 ======
-* Python programming and mainstream machine learning package
-  * Deep learning: PyTorch, transformers, dgl
-  * Machine learning: scikit-learn
-  * Data analysis: Numpy, Pandas, Scipy
-* Some other programming languages: C/C++, MATLAB
+* Programming:
+  * Familiar with common Python packages for machine learning: 
+    * PyTorch, transformers, dgl, scikit-learn
+  * Can use but not experienced: C/C++, MATLAB
+* Language:
+  * TOEFL: 106 (R29/L29/S23/W25)
+  * CET-6: 608
 
 [My formal CV](../files/CV-en.pdf)
   
