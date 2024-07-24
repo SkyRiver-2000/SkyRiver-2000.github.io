@@ -31,6 +31,10 @@ Experience
 * **2022.02-2023.02: Research Intern, Amazon Shanghai AI Lab**
   * Topic: Graph Neural Networks, Data Mining
   * Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
+
+* **2024.07-present: Visiting Student, UCSB**
+  * Topic: LLM Agents, LLM Efficiency
+  * Advisor: [William Wang](https://sites.cs.ucsb.edu/~william/)
   
 Skills
 ======
