@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ruiwen, a second-year CS master student at Shanghai Jiao Tong University, currently also a visiting student at UC Santa Barbara. Under the supervision of Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn) and [William Wang] (https://sites.cs.ucsb.edu/~william/), I conduct research about:
+Hello! I am Ruiwen, a second-year CS master student at Shanghai Jiao Tong University, currently also a visiting student at UC Santa Barbara. Under the supervision of Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn) and [William Wang](https://sites.cs.ucsb.edu/~william/), I conduct research about:
 * Learning in environment with LLMs.
 * Utilizing retrieval to enhance LLMs.
 * Improving efficiency of LLMs.
