@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ruiwen, a second-year CS master student at Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). Currently I am also a visiting student at UC Santa Barbara, advisde by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
+Hello! I am Ruiwen Zhou, a second-year CS master student at Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). Currently I am also a visiting student at UCSB, advisde by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
 
 My research mainly focuses on:
 * Learning in environment with LLMs.
