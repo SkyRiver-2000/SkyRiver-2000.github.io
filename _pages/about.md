@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am Ruiwen Zhou, a second-year CS master student at Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). Currently I am also a visiting student at UCSB, advised by Prof. [William Yang Wang](https://sites.cs.ucsb.edu/~william/).
 
-My research interest lies in building powerful agents that can automatically complete complex real-world tasks and inspire creative ideas / designs for humans. To achieve this, recently I focus on two aspects of large language models (LLMs):
+My research interest lies in building powerful agents that can automatically complete complex real-world tasks and inspire creative ideas for humans. To achieve this, recently I focus on two aspects of large language models (LLMs):
 * LLM agents in interactive environments.
 * Natural language reasoning with LLMs.
 
