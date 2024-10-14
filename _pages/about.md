@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ruiwen Zhou, a second-year CS master student at Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). Currently I am also a visiting student at UCSB, advised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
+Hello! I am Ruiwen Zhou, a second-year CS master student at Shanghai Jiao Tong University, advised by Prof. [Weinan Zhang](https://wnzhang.net) at [APEX lab](http://apex.sjtu.edu.cn). Currently I am also a visiting student at UCSB, advised by Prof. [William Yang Wang](https://sites.cs.ucsb.edu/~william/).
 
-My research mainly focuses on:
-* Learning in environment with LLMs.
-* Utilizing retrieval to enhance LLMs.
+My research interest lies in building powerful agents that can automatically complete complex real-world tasks and inspire creative ideas / designs for humans. To achieve this, recently I focus on two aspects of large language models (LLMs):
+* LLM agents in interactive environments.
+* Natural language reasoning with LLMs.
 
 In my spare time, I love:
 * Listening to and playing music (I love pop. songs, musicals, piano, etc.).
-* Thinking and discussing interesting (not only CS) problems.
-* Going out for short walks on beautiful sites.
+* Thinking and discussing interesting (not limited to AI/CS) problems.
+* Going out for short journeys on beautiful sites.
 
-I have a strong interest in machine learning, and my ideal is to build a powerful agent, which can help to alleviate humans' working loads and spark humans' creative inspirations.
-
-I am now seeking for a PhD opportunity (2025 fall) in US. If you are interested in communicating with me, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).
+**I am now seeking for a PhD opportunity (2025 fall) in US. If you are interested or have questions in my research works, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).**
