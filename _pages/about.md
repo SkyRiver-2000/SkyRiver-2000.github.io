@@ -18,4 +18,4 @@ In my spare time, I love:
 * Thinking and discussing interesting (not limited to AI/CS) problems.
 * Going out for short journeys on beautiful sites.
 
-**I am now seeking for a PhD opportunity (2025 fall) in US. If you are interested or have questions in my research works, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).**
+**I am now seeking CS PhD opportunities (2025 fall) in US. If you are interested or have questions in my research works, feel free to contact me through [E-mail](mailto:skyriver@sjtu.edu.cn).**
