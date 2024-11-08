@@ -9,20 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[Ruiwen's CV](../files/CV-en.pdf)
+
 Education
 ======
-* **2018.09-2022.06: Information Engineering, SJTU**
-  <!--* Overall Grade: 90.57 / 100 (Ranking: 2<sup>nd</sup> / 148)-->
-  * B.S. Degree, advised by Prof. [Weinan Zhang](https://wnzhang.net).
-* **2022.09-Present: Computer Science and Engineering, SJTU**
-  * Pursueing M.S. Degree, advised by Prof. [Weinan Zhang](https://wnzhang.net).
+* **2018.09-2022.06: Bachlor of Engineering in Information Engineering, SJTU**
+* **2022.09-2025.03 (Expected): Master of Engineering in Computer Science and Technology, SJTU**
+  * Advisor: Prof. [Weinan Zhang](https://wnzhang.net).
 
 Experience
 ======
-
-* **2021.01-present: Researcher, APEX Lab**
-  * Topic: LLM Agents, Data Mining, Reinforcement Learning
-  * Advisor: [Weinan Zhang](https://wnzhang.net)
 
 * **2021.09-2022.01: Research Intern, MSRA ML Group**
   * Topic: Risk-Sensitive Reinforcement Learning
@@ -33,19 +29,5 @@ Experience
   * Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
 
 * **2024.07-present: Visiting Student, UCSB**
-  * Topic: LLM Agents, LLM Efficiency
+  * Topic: Large Language Model Reasoning
   * Advisor: [William Wang](https://sites.cs.ucsb.edu/~william/)
-  
-Skills
-======
-* Programming:
-  * Familiar with common Python packages for machine learning: 
-    * PyTorch, transformers, dgl, scikit-learn
-  * Can use but not experienced: C/C++, MATLAB
-* Language:
-  * TOEFL: 106 (R29/L29/S23/W25)
-  * CET-6: 608
-
-[My formal CV](../files/CV-en.pdf)
-  
-<!--My formal CV: [English Version](../files/CV-en.pdf), [Chinese Version](../files/CV.pdf)-->
