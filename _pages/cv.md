@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* **2018.09-2022.06: Bachlor of Engineering in Information Engineering, SJTU**
-* **2022.09-2025.03 (Expected): Master of Engineering in Computer Science and Technology, SJTU**
+* **2018.09-2022.06: B.Eng. in Information Engineering, SJTU**
+* **2022.09-2025.03: M.Eng. in Computer Science and Technology, SJTU**
   * Advisor: Prof. [Weinan Zhang](https://wnzhang.net).
 
 Experience
