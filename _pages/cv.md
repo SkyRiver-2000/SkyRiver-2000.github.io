@@ -30,4 +30,4 @@ Experience
 
 * **2024.07-present: Visiting Student, UCSB**
   * Topic: Large Language Model Reasoning
-  * Advisor: [William Wang](https://sites.cs.ucsb.edu/~william/)
+  * Advisor: [William Yang Wang](https://sites.cs.ucsb.edu/~william/)
