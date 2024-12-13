@@ -27,7 +27,7 @@ Recently, my research works mainly focus on:
 **I am seeking 2025 Fall CS Ph.D. opportunities in US.** Feel free to contact me if you are interested in my research or want to discuss with me.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 We release a LLM rule-guided reasoning benchmark [**RuleArena**]().
+- *2024.12*: &nbsp;🎉🎉 We release a LLM rule-guided reasoning benchmark [**RuleArena**](https://arxiv.org/pdf/2412.08972).
 - *2024.07*: &nbsp;🎉🎉 I will serve as a volunteer host for SIGIR 2024 AgentIR Workshop. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will present our work [**TRAD**](https://arxiv.org/pdf/2403.06221) at SIGIR 2024 in Washington D.C.
 - *2024.07*: &nbsp;🎉🎉 I Start my 6-month visit at UCSB NLP Group.
@@ -39,7 +39,7 @@ Recently, my research works mainly focus on:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-**\[arXiv preprint\]** [RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios](https://arxiv.org/)
+**\[arXiv preprint\]** [RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios](https://arxiv.org/pdf/2412.08972)
 
 **Ruiwen Zhou**, Wenyue Hua, Liangming Pan, Sitao Cheng, Xiaobao Wu, En Yu, William Yang Wang
 
@@ -113,3 +113,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
+
+<div style="padding-top: 100px; transform: scale(0.5); transform-origin: top center;">
+    <script style="width:50%" type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pfXNheCGCTq2ev5ATlMo7sNGDhev4oUjVOF5WLbyZao&cl=ffffff&w=a"></script>
+</div>
