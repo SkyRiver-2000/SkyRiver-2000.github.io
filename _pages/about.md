@@ -24,7 +24,7 @@ Recently, my research works mainly focus on:
 * Retrieval-Augmented LLM applications.
 * LLM reasoning, planning, and rule-following.
 
-**I am seeking 2025 Fall CS Ph.D. opportunities in US.** Feel free to contact me if you are interested in my research or want to discuss with me.
+**I am seeking 2025 Fall CS Ph.D. opportunities.** Feel free to contact me if you are interested in my research or want to discuss with me.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We release a LLM rule-guided reasoning benchmark [**RuleArena**](https://arxiv.org/pdf/2412.08972).
