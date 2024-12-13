@@ -28,6 +28,7 @@ Recently, my research works mainly focus on:
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We release a LLM rule-guided reasoning benchmark [**RuleArena**](https://arxiv.org/pdf/2412.08972).
+- *2024.11*: &nbsp;🎉🎉 I will attend SoCal NLP 2024. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will serve as a volunteer host for SIGIR 2024 AgentIR Workshop. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will present our work [**TRAD**](https://arxiv.org/pdf/2403.06221) at SIGIR 2024 in Washington D.C.
 - *2024.07*: &nbsp;🎉🎉 I Start my 6-month visit at UCSB NLP Group.
