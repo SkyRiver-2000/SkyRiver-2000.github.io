@@ -115,6 +115,12 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
 
+# 👀 Miscellaneous
+In my spare time, I love:
+- **Stroll:** I often go for a walk to beautiful sites nearby and recover my energy.
+- **Music:** I listen to pop. songs, musicals, symphonies, etc. I also play the piano and sing.
+- **Sports:** I watch NBA, F1, etc. games. I am a fan of James Harden and Lewis Hamilton.
+
 <div style="padding-top: 100px; transform: scale(0.5); transform-origin: top center;">
     <script style="width:50%" type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pfXNheCGCTq2ev5ATlMo7sNGDhev4oUjVOF5WLbyZao&cl=ffffff&w=a"></script>
 </div>
