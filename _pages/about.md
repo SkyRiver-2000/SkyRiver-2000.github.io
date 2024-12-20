@@ -27,11 +27,12 @@ Recently, my research works mainly focus on:
 **I am seeking 2025 Fall CS Ph.D. opportunities.** Feel free to contact me if you are interested in my research or want to discuss with me.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 We release a LLM rule-guided reasoning benchmark [**RuleArena**](https://arxiv.org/pdf/2412.08972).
+- *2024.12*: &nbsp;🎉🎉 We release [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670), an automated anti-leakage LLM benchmarking framework.
+- *2024.12*: &nbsp;🎉🎉 We release [**RuleArena**](https://arxiv.org/pdf/2412.08972), an LLM rule-guided reasoning benchmark.
 - *2024.11*: &nbsp;🎉🎉 I will attend SoCal NLP 2024. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will serve as a volunteer host for SIGIR 2024 AgentIR Workshop. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will present our work [**TRAD**](https://arxiv.org/pdf/2403.06221) at SIGIR 2024 in Washington D.C.
-- *2024.07*: &nbsp;🎉🎉 I Start my 6-month visit at UCSB NLP Group.
+- *2024.07*: &nbsp;🎉🎉 I start my 6-month visit at UCSB NLP Group.
 - *2024.03*: &nbsp;🎉🎉 One paper [**TRAD**](https://arxiv.org/pdf/2403.06221) is accepted by **SIGIR 2024**.
 - *2024.03*: &nbsp;🎉🎉 We release a retrieval-augmented LLM agent framework [**TRAD**](https://arxiv.org/pdf/2403.06221).
 
@@ -39,8 +40,7 @@ Recently, my research works mainly focus on:
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
-
-**\[arXiv preprint\]** [RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios](https://arxiv.org/pdf/2412.08972)
+**[arXiv preprint]** [RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios](https://arxiv.org/pdf/2412.08972)
 
 **Ruiwen Zhou**, Wenyue Hua, Liangming Pan, Sitao Cheng, Xiaobao Wu, En Yu, William Yang Wang
 
@@ -53,7 +53,18 @@ Recently, my research works mainly focus on:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-**\[SIGIR 2024\]** [TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision](https://arxiv.org/pdf/2403.06221)
+**[arXiv preprint]** [AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/pdf/2412.13670)
+
+Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Shuai Zhao, Anh Tuan Luu, William Yang Wang
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We create the <strong>AntiLeak-Bench</strong> framework, which collects samples with explicitly new knowledge absent from LLMs' training sets, and thus ensures strictly contamination-free evaluation. This building workflow is also automated for maintainance and update without human labor.
+- Experiments show that pre-cutoff samples come with data contamination, which inflates LLMs' performance, while contamination-free post-cutoff samples collected by our <strong>AntiLeak-Bench</strong> are more challenging and can more accurately assess LLMs.
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+**[SIGIR 2024]** [TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision](https://arxiv.org/pdf/2403.06221)
 
 **Ruiwen Zhou**, Yingxuan Yang, Muning Wen, Ying Wen, Wenhao Wang, Chunling Xi, Guoqiang Xu, Yong Yu, Weinan Zhang
 
@@ -66,7 +77,7 @@ Recently, my research works mainly focus on:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-**\[arXiv preprint\]** [Is Risk-Sensitive Reinforcement Learning Properly Resolved?](https://arxiv.org/pdf/2307.00547)
+**[arXiv preprint]** [Is Risk-Sensitive Reinforcement Learning Properly Resolved?](https://arxiv.org/pdf/2307.00547)
 
 **Ruiwen Zhou**, Minghuan Liu, Kan Ren, Xufang Luo, Weinan Zhang, Dongsheng Li
 
@@ -79,7 +90,7 @@ Recently, my research works mainly focus on:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-**\[NeurIPS 2022\]** [Learning Enhanced Representations for Tabular Data via Neighborhood Propagation](https://arxiv.org/pdf/2206.06587)
+**[NeurIPS 2022]** [Learning Enhanced Representations for Tabular Data via Neighborhood Propagation](https://arxiv.org/pdf/2206.06587)
 
 Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui Jin, Quan Gan, Zheng Zhang, David Wipf
 
