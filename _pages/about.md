@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year CS Master student at Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net). Previously, I obtained my Bachelor degree in Inforamtion Engineering from SJTU. I was also a visiting student at University of California Santa Barbara (UCSB) during Jul 2024 - Dec 2024, advised by [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william).
+I am a third-year CS Master student at Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net). Previously, I obtained my Bachelor's degree in Inforamtion Engineering from SJTU in 2022.
 
 Recently, my research works mainly focus on:
 * Evaluation and analysis of LLMs.
-* Retrieval-Augmented LLM applications.
+* LLM with retrieval augmentation.
 * LLM reasoning, planning, and rule-following.
+* Interactive LLM agents.
 
-Feel free to contact me if you are interested in my research or want to discuss with me.
+Feel free to reach out if you are interested in my research or want to discuss with me.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We release [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670), an automated anti-leakage LLM benchmarking framework.
@@ -114,7 +115,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2019.11* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
 
 # 📖 Educations
-- *2022.09 - 2025.03 (now)*, M.Eng in Computer Science and Technology, SJTU.
+- *2022.09 - 2025.03*, M.Eng. in Computer Science and Technology, SJTU.
 - *2018.09 - 2022.06*, B.Eng. in Information Engineering, SJTU.
 
 <!-- # 💬 Invited Talks
