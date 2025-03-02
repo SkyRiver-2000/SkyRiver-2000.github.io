@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year CS Master student at Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net). Previously, I obtained my Bachelor degree in Inforamtion Engineering from SJTU. Currently I am also a visiting student at University of California Santa Barbara (UCSB), advised by [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william).
+I am a third-year CS Master student at Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net). Previously, I obtained my Bachelor degree in Inforamtion Engineering from SJTU. I was also a visiting student at University of California Santa Barbara (UCSB) during Jul 2024 - Dec 2024, advised by [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william).
 
 Recently, my research works mainly focus on:
 * Evaluation and analysis of LLMs.
 * Retrieval-Augmented LLM applications.
 * LLM reasoning, planning, and rule-following.
 
-**I am seeking 2025 Fall CS Ph.D. opportunities.** Feel free to contact me if you are interested in my research or want to discuss with me.
+Feel free to contact me if you are interested in my research or want to discuss with me.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We release [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670), an automated anti-leakage LLM benchmarking framework.
@@ -106,7 +106,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2022.11* First-Class Excellence Scholarship (Top 30% out of 179).
 - *2021.12* B-Class Excellence Scholarship (Top 10% out of 144).
 - *2021.12* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
-- *2021.04* Outstanding Winner of Problem D, ICM 2021 (~Top 0.15% among the world).
+- *2021.04* Outstanding Winner of MCM/ICM 2021 (~Top 0.15% among the world).
 - *2020.12* **A-Class Excellence Scholarship (Top 1 out of 144)**.
 - *2020.12* **National Scholarship (Top 2 out of 144)**.
 - *2020.12* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
