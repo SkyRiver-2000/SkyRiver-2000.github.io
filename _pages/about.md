@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year CS Master student at Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net). Previously, I obtained my Bachelor's degree in Inforamtion Engineering from SJTU in 2022.
+I am an incoming CS Ph.D. student at National University of Singapore (NUS). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net).
 
 Recently, my research works mainly focus on:
 * Evaluation and analysis of LLMs.
@@ -25,15 +25,16 @@ Recently, my research works mainly focus on:
 * LLM reasoning, planning, and rule-following.
 * Interactive LLM agents.
 
-Feel free to reach out if you are interested in my research or want to discuss with me.
+Feel free to reach out if you are interested in my research or want to chat with me.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) at ICLR 2025 Workshops (Reason & Plan, SCI-FM). Hope to see you there.
+- *2025.04*: &nbsp;🎉🎉 I will join National University of Singapore (NUS) for my Ph.D. journey, starting Aug. 2025.
 - *2024.12*: &nbsp;🎉🎉 We release [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670), an automated anti-leakage LLM benchmarking framework.
 - *2024.12*: &nbsp;🎉🎉 We release [**RuleArena**](https://arxiv.org/pdf/2412.08972), an LLM rule-guided reasoning benchmark.
 - *2024.11*: &nbsp;🎉🎉 I will attend SoCal NLP 2024. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will serve as a volunteer host for SIGIR 2024 AgentIR Workshop. Hope to see you there.
 - *2024.07*: &nbsp;🎉🎉 I will present our work [**TRAD**](https://arxiv.org/pdf/2403.06221) at SIGIR 2024 in Washington D.C.
-- *2024.07*: &nbsp;🎉🎉 I start my 6-month visit at UCSB NLP Group.
 - *2024.03*: &nbsp;🎉🎉 One paper [**TRAD**](https://arxiv.org/pdf/2403.06221) is accepted by **SIGIR 2024**.
 - *2024.03*: &nbsp;🎉🎉 We release a retrieval-augmented LLM agent framework [**TRAD**](https://arxiv.org/pdf/2403.06221).
 
@@ -123,6 +124,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.04 - 2025.07*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*.
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
