@@ -136,5 +136,5 @@ In my spare time, I love:
 - **Sports:** I watch NBA, F1, etc. games. I am a fan of James Harden and Lewis Hamilton.
 
 <div style="padding-top: 100px; transform: scale(0.5); transform-origin: top center;">
-    <script style="width:50%" type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pfXNheCGCTq2ev5ATlMo7sNGDhev4oUjVOF5WLbyZao&cl=ffffff&w=a"></script>
+    <script style="width:50%" type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pfXNheCGCTq2ev5ATlMo7sNGDhev4oUjVOF5WLbyZao"></script>
 </div>
