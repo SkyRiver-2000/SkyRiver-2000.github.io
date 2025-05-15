@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming CS Ph.D. student at National University of Singapore (NUS). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), advised by [Prof. Weinan Zhang](https://wnzhang.net).
+I am an incoming CS Ph.D. student at National University of Singapore (NUS). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net).
 
 Recently, my research works mainly focus on:
 * Evaluation and analysis of LLMs.
@@ -25,9 +25,10 @@ Recently, my research works mainly focus on:
 * LLM reasoning, planning, and rule-following.
 * Interactive LLM agents.
 
-Feel free to reach out if you are interested in my research or want to chat with me.
+Feel free to reach out if you are interested in my research or want to collaborate / chat with me.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two papers [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) are accepted by **ACL 2025 (Main)**.
 - *2025.04*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) at ICLR 2025 Workshops (Reason&Plan, SCI-FM). Hope to see you there.
 - *2025.04*: &nbsp;🎉🎉 I will join National University of Singapore (NUS) for my Ph.D. journey, starting Aug. 2025.
 - *2024.12*: &nbsp;🎉🎉 We release [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670), an automated anti-leakage LLM benchmarking framework.
@@ -42,7 +43,8 @@ Feel free to reach out if you are interested in my research or want to chat with
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
-**[arXiv preprint]** [RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios](https://arxiv.org/pdf/2412.08972)
+
+**[ACL 2025 (Main)]** [RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios](https://arxiv.org/pdf/2412.08972)
 
 **Ruiwen Zhou**, Wenyue Hua, Liangming Pan, Sitao Cheng, Xiaobao Wu, En Yu, William Yang Wang
 
@@ -55,7 +57,7 @@ Feel free to reach out if you are interested in my research or want to chat with
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
-**[arXiv preprint]** [AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/pdf/2412.13670)
+**[ACL 2025 (Main)]** [AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/pdf/2412.13670)
 
 Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Shuai Zhao, Anh Tuan Luu, William Yang Wang
 
@@ -124,7 +126,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.04 - 2025.07*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*.
+- *2025.04 - Present*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*.
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
