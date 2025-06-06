@@ -25,6 +25,7 @@ author:
   avatar           : "images/photo.jpg"
   bio              : "Shanghai Jiao Tong Univ."
   location         : "Shanghai, China"
+  cv               : "/assets/CV-Ruiwen.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DSW4MK8AAAAJ&hl=en"

@@ -213,6 +213,9 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.cv %}
+        <a href="{{ author.cv }}" target="_blank"><i class="fas fa-fw fa-file" aria-hidden="true"></i></a>
+      {% endif %}
     </div>
   </div>
 </div>
