@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruiwen Zhou"
-description              : "Incoming CS Ph.D. at NUS, LLM Reasoning & AI Agents."
+description              : "Doing fun research works on LLM Reasoning & AI Agents."
 repository               : "skyriver-2000/skyriver-2000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruiwen Zhou"
   avatar           : "images/photo.jpg"
-  bio              : "Shanghai Jiao Tong Univ."
-  location         : "Shanghai, China"
+  bio              : "Ph.D. Student at National University of Singapore"
+  location         : "Singapore"
   cv               : "/assets/CV-Ruiwen.pdf"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DSW4MK8AAAAJ&hl=en"
-  email            : "skyriver@sjtu.edu.cn"
+  email            : "zhouruiwen@u.nus.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
