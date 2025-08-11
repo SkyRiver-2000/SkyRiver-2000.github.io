@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net).
+I am a first-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net).
 
 Recently, my research works mainly focus on:
 * Evaluation and analysis of LLMs.
@@ -113,7 +113,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2019.11* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
 
 # 📖 Educations
-- *(Starting) 2025.08*, Ph.D. in Computer Science, NUS.
+- *2025.08 - Present*, Ph.D. in Computer Science, NUS.
 - *2022.09 - 2025.03*, M.Eng. in Computer Science and Technology, SJTU.
 - *2018.09 - 2022.06*, B.Eng. in Information Engineering, SJTU.
 
@@ -122,7 +122,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.04 - Present*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*.
+- *2025.04 - 2025.08*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*.
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
