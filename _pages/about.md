@@ -19,14 +19,16 @@ redirect_from:
 
 I am a first-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net).
 
-Recently, my research works mainly focus on:
-* Evaluation and analysis of LLMs.
-* LLM reasoning, planning, and rule-following.
-* Interactive LLM agents.
+Recently, my research mainly focus on LLM reasoning and AI agents, especially:
+* Reinforcement learning for reasoning models and agentic LLMs.
+* LLM with memory augmentation for long context understanding.
+* LLM-based multi-agent collaboration and competition.
 
-Feel free to reach out if you are interested in my research or want to collaborate / chat with me.
+**I am actively looking for 2026 summer research internship in U.S. and Mainland China!** Feel free to reach out to me if there is an opportunity or you are interested in academic discussion / collaboration.
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 I will attend EMNLP 2025 at Suzhou during Nov 5-7, 2025. Let's connect!
+- *2025.07*: &nbsp;🎉🎉 [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) is selected as SAC Highlight at ACL 2025!
 - *2025.06*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) at ACL 2025 in Vienna, Austria.
 - *2025.05*: &nbsp;🎉🎉 Two papers [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) are accepted by **ACL 2025 (Main)**.
 - *2025.04*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) at ICLR 2025 Workshops (Reason&Plan, SCI-FM). Hope to see you there.
@@ -36,7 +38,17 @@ Feel free to reach out if you are interested in my research or want to collabora
 
 # 📝 Publications
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-text' markdown="1">
+
+**<font color="navy">Measuring and Mitigating Rapport Bias of Large Language Models under Multi-Agent Social Interactions</font>**
+
+Maojia Song, Tej Deep Pala, **Ruiwen Zhou**, Weisheng Jin, Amir Zadeh, Chuan Li, Dorien Herremans, Soujanya Poria
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2508.18321) | [Code]() \]
+</div>
+
+<br> -->
+
 <div class='paper-box-text' markdown="1">
 
 **<font color="navy">RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios</font>**
@@ -45,7 +57,6 @@ Feel free to reach out if you are interested in my research or want to collabora
 
 ***ACL 2025*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2412.08972) | [Code](https://github.com/skyriver-2000/RuleArena) \]
 </div>
-<!-- </div> -->
 
 <br>
 
@@ -80,7 +91,7 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 
 **Ruiwen Zhou**, Minghuan Liu, Kan Ren, Xufang Luo, Weinan Zhang, Dongsheng Li
 
-***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2307.00547) \]
+***DAI 2025*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2307.00547) \]
 </div>
 <!-- </div> -->
 
@@ -100,6 +111,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 <br>
 
 # 🎖 Honors and Awards
+- *2025.08* NUS Research Scholarship.
 - *2024.11* Huatai Securities Scholarship (~Top 10% out of 179).
 - *2024.11* First-Class Excellence Scholarship (Top 30% out of 179).
 - *2022.11* First-Class Excellence Scholarship (Top 30% out of 179).
