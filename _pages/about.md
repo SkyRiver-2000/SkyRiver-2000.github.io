@@ -111,18 +111,18 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 <br>
 
 # 🎖 Honors and Awards
-- *2025.08* NUS Research Scholarship.
-- *2024.11* Huatai Securities Scholarship (~Top 10% out of 179).
-- *2024.11* First-Class Excellence Scholarship (Top 30% out of 179).
-- *2022.11* First-Class Excellence Scholarship (Top 30% out of 179).
-- *2021.12* B-Class Excellence Scholarship (Top 10% out of 144).
-- *2021.12* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
-- *2021.04* Outstanding Winner of MCM/ICM 2021 (~Top 0.15% among the world).
-- *2020.12* **A-Class Excellence Scholarship (Top 1 out of 144)**.
-- *2020.12* **National Scholarship (Top 2 out of 144)**.
-- *2020.12* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
-- *2019.11* B-Class Excellence Scholarship (Top 10% out of 144).
-- *2019.11* Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
+- *2025.08* &nbsp;&nbsp; NUS Research Scholarship.
+- *2024.11* &nbsp;&nbsp; Huatai Securities Scholarship (~Top 10% out of 179).
+- *2024.11* &nbsp;&nbsp; First-Class Excellence Scholarship (Top 30% out of 179).
+- *2022.11* &nbsp;&nbsp; First-Class Excellence Scholarship (Top 30% out of 179).
+- *2021.12* &nbsp;&nbsp; B-Class Excellence Scholarship (Top 10% out of 144).
+- *2021.12* &nbsp;&nbsp; Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
+- *2021.04* &nbsp;&nbsp; Outstanding Winner of MCM/ICM 2021 (~Top 0.15% among the world).
+- *2020.12* &nbsp;&nbsp; **A-Class Excellence Scholarship (Top 1 out of 144)**.
+- *2020.12* &nbsp;&nbsp; **National Scholarship (Top 2 out of 144)**.
+- *2020.12* &nbsp;&nbsp; Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
+- *2019.11* &nbsp;&nbsp; B-Class Excellence Scholarship (Top 10% out of 144).
+- *2019.11* &nbsp;&nbsp; Zhiyuan Honors Scholarship (Top 5% students in Zhiyuan Honors Program).
 
 # 📖 Educations
 - *2025.08 - Present*, Ph.D. in Computer Science, NUS.
