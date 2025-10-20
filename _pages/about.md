@@ -134,7 +134,7 @@ Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.04 - 2025.08*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*.
+<!-- - *2025.04 - 2025.08*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*. -->
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
