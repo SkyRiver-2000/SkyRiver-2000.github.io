@@ -24,7 +24,7 @@ Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 * LLM with memory augmentation for long context understanding.
 * LLM-based multi-agent collaboration and competition.
 
-**I am actively looking for 2026 summer research internship in U.S. and Mainland China!** Feel free to reach out to me if there is an opportunity or you are interested in academic discussion / collaboration.
+**I am looking for 2026 summer research internship in U.S., Singapore, and China!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration.
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 I will attend EMNLP 2025 at Suzhou during Nov 5-7, 2025. Let's connect!
