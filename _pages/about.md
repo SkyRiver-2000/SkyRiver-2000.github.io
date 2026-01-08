@@ -22,9 +22,9 @@ I am a first-year CS Ph.D. student at National University of Singapore (NUS), su
 Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 * Reinforcement learning for reasoning models and agentic LLMs.
 * LLM with memory augmentation for long context understanding.
-* LLM-based multi-agent collaboration and competition.
+* LLM-based multi-agent collaboration and social reasoning.
 
-**I am looking for 2026 summer research internship in U.S., Singapore, and China!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration.
+**I am looking for 2026 summer research internship globally!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration.
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 I will attend EMNLP 2025 at Suzhou during Nov 5-7, 2025. Let's connect!
@@ -38,16 +38,27 @@ Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 
 # 📝 Publications
 
-<!-- <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="padding-top: 10px;">
+
+**<font color="navy">MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory</font>**
+
+Shengtao Zhang<superscript>*</superscript>, Jiaqian Wang<superscript>*</superscript>, **Ruiwen Zhou**, Junwei Liao, Yuchen Feng, Weinan Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Yutao Qi, Bo Tang, Muning Wen
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2601.03192) | [Code]() \]
+</div>
+
+<br>
+
+<div class='paper-box-text' markdown="1">
 
 **<font color="navy">Measuring and Mitigating Rapport Bias of Large Language Models under Multi-Agent Social Interactions</font>**
 
 Maojia Song, Tej Deep Pala, **Ruiwen Zhou**, Weisheng Jin, Amir Zadeh, Chuan Li, Dorien Herremans, Soujanya Poria
 
-***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2508.18321) | [Code]() \]
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2508.18321) | [Code](https://github.com/declare-lab/KAIROS) \]
 </div>
 
-<br> -->
+<br>
 
 <div class='paper-box-text' markdown="1">
 
