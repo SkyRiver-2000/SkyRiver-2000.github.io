@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net).
+I am a first-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net). I also work closely with [Dr. Wenyue Hua](https://wenyueh.github.io/en/), [Prof. Liangming Pan](http://liangmingpan.bio/), and [Prof. Muning Wen](https://morning9393.github.io/).
 
 Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 * Reinforcement learning for reasoning models and agentic LLMs.
@@ -27,16 +27,27 @@ Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 **I am looking for 2026 summer research internship globally!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper [**KAIROS**](https://arxiv.org/pdf/2508.18321) is accepted by **ICLR 2026**.
+- *2026.01*: &nbsp;🎉🎉 I will attend AAAI 2026 at Singapore during Jan 22-27, 2026. Let's connect!
 - *2025.10*: &nbsp;🎉🎉 I will attend EMNLP 2025 at Suzhou during Nov 5-7, 2025. Let's connect!
 - *2025.07*: &nbsp;🎉🎉 [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) is selected as SAC Highlight at ACL 2025!
 - *2025.06*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) at ACL 2025 in Vienna, Austria.
 - *2025.05*: &nbsp;🎉🎉 Two papers [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) are accepted by **ACL 2025 (Main)**.
 - *2025.04*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) at ICLR 2025 Workshops (Reason&Plan, SCI-FM). Hope to see you there.
 - *2025.04*: &nbsp;🎉🎉 I will join National University of Singapore (NUS) for my Ph.D. journey, starting Aug. 2025.
-- *2024.12*: &nbsp;🎉🎉 We release [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670), an automated anti-leakage LLM benchmarking framework.
-- *2024.12*: &nbsp;🎉🎉 We release [**RuleArena**](https://arxiv.org/pdf/2412.08972), an LLM rule-guided reasoning benchmark.
 
-# 📝 Publications
+# 📝 Selected Publications
+
+<div class='paper-box-text' markdown="1" style="padding-top: 10px;">
+
+**<font color="navy">Epistemic Context Learning: Building Trust the Right Way in LLM-Based Multi-Agent Systems</font>**
+
+**Ruiwen Zhou**<superscript>*</superscript>, Maojia Song<superscript>*</superscript>, Xiaobao Wu, Sitao Cheng, Xunjian Yin, Yuxi Xie, Zoey Hao, Wenyue Hua, Liangming Pan, Soujanya Poria, Min-Yen Kan
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2601.21742) | [Code](https://github.com/skyriver-2000/epistemic-context-learning) \]
+</div>
+
+<br>
 
 <div class='paper-box-text' markdown="1" style="padding-top: 10px;">
 
@@ -49,13 +60,24 @@ Shengtao Zhang<superscript>*</superscript>, Jiaqian Wang<superscript>*</superscr
 
 <br>
 
+<div class='paper-box-text' markdown="1" style="padding-top: 10px;">
+
+**<font color="navy">From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning</font>**
+
+Sitao Cheng, Xunjian Yin, **Ruiwen Zhou**, Yuxuan Li, Xinyi Wang, Liangming Pan, William Yang Wang, Victor Zhong
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2512.01970) | [Code](https://github.com/sitaocheng/from_atomic_to_composite) \]
+</div>
+
+<br>
+
 <div class='paper-box-text' markdown="1">
 
 **<font color="navy">Measuring and Mitigating Rapport Bias of Large Language Models under Multi-Agent Social Interactions</font>**
 
 Maojia Song, Tej Deep Pala, **Ruiwen Zhou**, Weisheng Jin, Amir Zadeh, Chuan Li, Dorien Herremans, Soujanya Poria
 
-***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2508.18321) | [Code](https://github.com/declare-lab/KAIROS) \]
+***ICLR 2026*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2508.18321) | [Code](https://github.com/declare-lab/KAIROS) \]
 </div>
 
 <br>
@@ -78,7 +100,7 @@ Maojia Song, Tej Deep Pala, **Ruiwen Zhou**, Weisheng Jin, Amir Zadeh, Chuan Li,
 
 Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Shuai Zhao, Anh Tuan Luu, William Yang Wang
 
-***ACL 2025 (Oral)*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2412.13670) | [Code](https://github.com/bobxwu/antileak-bench) \]
+***ACL 2025 (Oral) | 🏆 SAC Highlight*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2412.13670) | [Code](https://github.com/bobxwu/antileak-bench) \]
 </div>
 
 <br>
@@ -90,32 +112,6 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 **Ruiwen Zhou**, Yingxuan Yang, Muning Wen, Ying Wen, Wenhao Wang, Chunling Xi, Guoqiang Xu, Yong Yu, Weinan Zhang
 
 ***SIGIR 2024*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2403.06221) | [Code](https://github.com/skyriver-2000/TRAD-Official) \]
-</div>
-<!-- </div> -->
-
-<br>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-
-**<font color="navy">Is Risk-Sensitive Reinforcement Learning Properly Resolved?</font>**
-
-**Ruiwen Zhou**, Minghuan Liu, Kan Ren, Xufang Luo, Weinan Zhang, Dongsheng Li
-
-***DAI 2025*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2307.00547) \]
-</div>
-<!-- </div> -->
-
-<br>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/rulearena.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-
-**<font color="navy">Learning Enhanced Representations for Tabular Data via Neighborhood Propagation</font>**
-
-Kounianhua Du, Weinan Zhang, **Ruiwen Zhou**, Yangkun Wang, Xilong Zhao, Jiarui Jin, Quan Gan, Zheng Zhang, David Wipf
-
-***NeurIPS 2022*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2206.06587) | [Code](https://github.com/KounianhuaDu/PET) \]
 </div>
 <!-- </div> -->
 
