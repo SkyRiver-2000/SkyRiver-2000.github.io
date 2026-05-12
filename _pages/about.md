@@ -20,11 +20,13 @@ redirect_from:
 I am a first-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Inforamtion Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net). I also work closely with [Dr. Wenyue Hua](https://wenyueh.github.io/en/), [Prof. Liangming Pan](http://liangmingpan.bio/), and [Prof. Muning Wen](https://morning9393.github.io/).
 
 Recently, my research mainly focus on LLM reasoning and AI agents, especially:
-* Reinforcement learning for reasoning models and agentic LLMs.
-* LLM with memory augmentation for long context understanding.
-* LLM-based multi-agent collaboration and social reasoning.
+* LLM mid-training and post-training.
+* LLM memory management and augmentation.
+* LLM-based multi-agent systems.
 
-**I am looking for 2026 summer research internship globally!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration.
+Feel free to reach out to me if you are interested in academic discussion / collaboration.
+
+<!-- **I am looking for 2026 summer research internship globally!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration. -->
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper [**KAIROS**](https://arxiv.org/pdf/2508.18321) is accepted by **ICLR 2026**.
@@ -37,6 +39,17 @@ Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 - *2025.04*: &nbsp;🎉🎉 I will join National University of Singapore (NUS) for my Ph.D. journey, starting Aug. 2025.
 
 # 📝 Selected Publications
+
+<div class='paper-box-text' markdown="1" style="padding-top: 10px;">
+
+**<font color="navy">MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs</font>**
+
+Junwei Liao, Haoting Shi, **Ruiwen Zhou**, Jiaqian Wang, Shengtao Zhang, Wei Zhang, Weinan Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Bo Tang, Muning Wen
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/abs/2605.08374) | [Code]() \]
+</div>
+
+<br>
 
 <div class='paper-box-text' markdown="1" style="padding-top: 10px;">
 
@@ -141,10 +154,10 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-<!-- - *2025.04 - 2025.08*, Shanghai AI Lab, *Advised by: [Jie Fu](https://bigaidream.github.io/)*. -->
+- *2026.04 - Present*, MiniMax (Top Talent Intern), *Mentored by: Junheng Zhang*
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
-- *2022.02 - 2023.02*, Amazon Web Service, *Advised by: [Quan Gan](https://www.amazon.science/author/quan-gan)*.
-- *2021.08 - 2022.01*, Microsoft Research Asia, *Advised by: [Kan Ren](https://www.saying.ren/)*.
+- *2022.02 - 2023.02*, Amazon Web Service, *Mentored by: [Quan Gan](https://linkedin.com/in/quan-gan-231992136)*.
+- *2021.08 - 2022.01*, Microsoft Research Asia, *Mentored by: [Kan Ren](https://www.saying.ren/)*.
 
 # 👀 Miscellaneous
 In my spare time, I love:
