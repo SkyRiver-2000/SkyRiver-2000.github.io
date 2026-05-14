@@ -46,7 +46,7 @@ Feel free to reach out to me if you are interested in academic discussion / coll
 
 Junwei Liao, Haoting Shi, **Ruiwen Zhou**, Jiaqian Wang, Shengtao Zhang, Wei Zhang, Weinan Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Bo Tang, Muning Wen
 
-***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/abs/2605.08374) | [Code]() \]
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/abs/2605.08374) | [Code](https://github.com/jwliao-ai/MemQ) \]
 </div>
 
 <br>
@@ -158,6 +158,11 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Mentored by: [Quan Gan](https://linkedin.com/in/quan-gan-231992136)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Mentored by: [Kan Ren](https://www.saying.ren/)*.
+
+# ✉️ Academic Services
+
+- **Reviewer:** ICML (2023, 2026), NeurIPS (2026), ICLR (2023), TPAMI.
+- **Volunteer:** SIGIR (2024, Co-Hosting the GenIR Workshop)
 
 # 👀 Miscellaneous
 In my spare time, I love:
