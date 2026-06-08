@@ -154,7 +154,7 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.04 - Present*, MiniMax (Top Talent Intern), *Mentored by: Junheng Zhang*
+- *2026.04 - Present*, MiniMax (Top Talent Intern).
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Mentored by: [Quan Gan](https://linkedin.com/in/quan-gan-231992136)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Mentored by: [Kan Ren](https://www.saying.ren/)*.
