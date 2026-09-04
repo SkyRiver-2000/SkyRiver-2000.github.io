@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Information Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net). I also work closely with [Dr. Wenyue Hua](https://wenyueh.github.io/en/), [Prof. Liangming Pan](http://liangmingpan.bio/), and [Prof. Muning Wen](https://morning9393.github.io/).
+I am a second-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Information Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net). I also work closely with [Dr. Wenyue Hua](https://wenyueh.github.io/en/), [Prof. Liangming Pan](http://liangmingpan.bio/), and [Prof. Muning Wen](https://morning9393.github.io/).
 
 Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 * LLM mid-training and post-training.
@@ -153,15 +153,15 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 
 # ✉️ Academic Services
 
-- **Reviewer:** ICML (2023, 2026), NeurIPS (2026), ICLR (2023), TPAMI.
+- **Reviewer:** ICML (2026), NeurIPS (2026), ARR (2026), TPAMI.
 - **Volunteer:** SIGIR (2024, Co-Hosting the GenIR Workshop)
 
 # 👀 Miscellaneous
 In my spare time, I love:
-- **Stroll:** I often go for a walk to beautiful sites nearby and recover my energy.
+- **Joggling:** I often go for a walk to beautiful sites nearby and recover my energy.
 - **Music:** I listen to pop. songs, musicals, symphonies, etc. I also play the piano and sing.
 - **Sports:** I watch NBA, F1, etc. games. I am a fan of James Harden and Lewis Hamilton.
 
-<div style="padding-top: 100px; transform: scale(0.5); transform-origin: top center;">
+<!-- <div style="padding-top: 100px; transform: scale(0.5); transform-origin: top center;">
     <script style="width:50%" type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pfXNheCGCTq2ev5ATlMo7sNGDhev4oUjVOF5WLbyZao"></script>
-</div>
+</div> -->
