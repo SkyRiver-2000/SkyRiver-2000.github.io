@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Information Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net). I also work closely with [Dr. Wenyue Hua](https://wenyueh.github.io/en/), [Prof. Liangming Pan](http://liangmingpan.bio/), and [Prof. Muning Wen](https://morning9393.github.io/).
+I am a 2nd-year CS Ph.D. student at National University of Singapore (NUS), supervised by [Prof. Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and [Prof. Soujanya Poria](https://soujanyaporia.github.io/). Previously, I obtained my Master's degree in Computer Science and Bachelor's degree in Information Engineering from Shanghai Jiao Tong University (SJTU), fortunately advised by [Prof. Weinan Zhang](https://wnzhang.net). I also work closely with [Dr. Wenyue Hua](https://wenyueh.github.io/en/), [Prof. Liangming Pan](http://liangmingpan.bio/), and [Prof. Muning Wen](https://morning9393.github.io/).
 
 Recently, my research mainly focus on LLM reasoning and AI agents, especially:
 * LLM mid-training and post-training.
