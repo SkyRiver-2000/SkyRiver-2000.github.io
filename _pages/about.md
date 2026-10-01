@@ -29,6 +29,8 @@ Feel free to reach out to me if you are interested in academic discussion / coll
 <!-- **I am looking for 2026 summer research internship globally!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration. -->
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper [**MemRL**](https://arxiv.org/pdf/2601.03192) is accepted by **ICLR 2026**.
+- *2026.06*: &nbsp;🎉🎉 I will attent ICML 2026 at Seoul during Jul 5-10, 2026. Let's connect!
 - *2026.01*: &nbsp;🎉🎉 One paper [**KAIROS**](https://arxiv.org/pdf/2508.18321) is accepted by **ICLR 2026**.
 - *2026.01*: &nbsp;🎉🎉 I will attend AAAI 2026 at Singapore during Jan 22-27, 2026. Let's connect!
 - *2025.10*: &nbsp;🎉🎉 I will attend EMNLP 2025 at Suzhou during Nov 5-7, 2025. Let's connect!
@@ -39,6 +41,17 @@ Feel free to reach out to me if you are interested in academic discussion / coll
 - *2025.04*: &nbsp;🎉🎉 I will join National University of Singapore (NUS) for my Ph.D. journey, starting Aug. 2025.
 
 # 📝 Selected Publications
+
+<div class='paper-box-text' markdown="1" style="padding-top: 10px;">
+
+**<font color="navy">X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization</font>**
+
+Sitao Cheng, Xunjian Yin, Zhiyuan Sun, Yuxuan Li, **Ruiwen Zhou**, Xiangru Jian, Victor Zhong
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2609.32993) | [Code](https://github.com/sitaocheng/X-Tree/) \]
+</div>
+
+<br>
 
 <div class='paper-box-text' markdown="1" style="padding-top: 10px;">
 
@@ -146,14 +159,14 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.04 - Present*, MiniMax (Top Talent Intern).
+- *2026.04 - Present*, MiniMax AI (Top Talent Intern).
 - *2024.07 - 2024.12*, UCSB NLP Group, *Advised by: [Prof. William Yang Wang](https://sites.cs.ucsb.edu/~william)*.
 - *2022.02 - 2023.02*, Amazon Web Service, *Mentored by: [Quan Gan](https://linkedin.com/in/quan-gan-231992136)*.
 - *2021.08 - 2022.01*, Microsoft Research Asia, *Mentored by: [Kan Ren](https://www.saying.ren/)*.
 
 # ✉️ Academic Services
 
-- **Reviewer:** ICML (2026), NeurIPS (2026), ARR (2026), TPAMI.
+- **Reviewer:** ICML (2026), NeurIPS (2026), ICLR (2026), ARR (2026), TPAMI.
 - **Volunteer:** SIGIR (2024, Co-Hosting the GenIR Workshop)
 
 # 👀 Miscellaneous
