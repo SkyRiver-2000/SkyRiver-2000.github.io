@@ -29,7 +29,7 @@ Feel free to reach out to me if you are interested in academic discussion / coll
 <!-- **I am looking for 2026 summer research internship globally!** Feel free to reach out to me if there is an opportunity that you believe I am a good fit, or you are interested in academic discussion / collaboration. -->
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 One paper [**MemRL**](https://arxiv.org/pdf/2601.03192) is accepted by **ICLR 2026**.
+- *2026.09*: &nbsp;🎉🎉 One paper [**MemRL**](https://arxiv.org/pdf/2601.03192) is accepted by **NeurIPS 2026**.
 - *2026.06*: &nbsp;🎉🎉 I will attent ICML 2026 at Seoul during Jul 5-10, 2026. Let's connect!
 - *2026.01*: &nbsp;🎉🎉 One paper [**KAIROS**](https://arxiv.org/pdf/2508.18321) is accepted by **ICLR 2026**.
 - *2026.01*: &nbsp;🎉🎉 I will attend AAAI 2026 at Singapore during Jan 22-27, 2026. Let's connect!
@@ -77,22 +77,22 @@ Junwei Liao, Haoting Shi, **Ruiwen Zhou**, Jiaqian Wang, Shengtao Zhang, Wei Zha
 
 <div class='paper-box-text' markdown="1" style="padding-top: 10px;">
 
-**<font color="navy">MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory</font>**
+**<font color="navy">From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning</font>**
 
-Shengtao Zhang<superscript>*</superscript>, Jiaqian Wang<superscript>*</superscript>, **Ruiwen Zhou**, Junwei Liao, Yuchen Feng, Weinan Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Yutao Qi, Bo Tang, Muning Wen
+Sitao Cheng, Xunjian Yin, **Ruiwen Zhou**, Yuxuan Li, Xinyi Wang, Liangming Pan, William Yang Wang, Victor Zhong
 
-***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2601.03192) | [Code]() \]
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2512.01970) | [Code](https://github.com/sitaocheng/from_atomic_to_composite) \]
 </div>
 
 <br>
 
 <div class='paper-box-text' markdown="1" style="padding-top: 10px;">
 
-**<font color="navy">From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning</font>**
+**<font color="navy">MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory</font>**
 
-Sitao Cheng, Xunjian Yin, **Ruiwen Zhou**, Yuxuan Li, Xinyi Wang, Liangming Pan, William Yang Wang, Victor Zhong
+Shengtao Zhang<superscript>*</superscript>, Jiaqian Wang<superscript>*</superscript>, **Ruiwen Zhou**, Junwei Liao, Yuchen Feng, Weinan Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Yutao Qi, Bo Tang, Muning Wen
 
-***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2512.01970) | [Code](https://github.com/sitaocheng/from_atomic_to_composite) \]
+***NeurIPS 2026*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2601.03192) | [Code]() \]
 </div>
 
 <br>
