@@ -33,14 +33,19 @@ Feel free to reach out to me if you are interested in academic discussion / coll
 - *2026.06*: &nbsp;🎉🎉 I will attent ICML 2026 at Seoul during Jul 5-10, 2026. Let's connect!
 - *2026.01*: &nbsp;🎉🎉 One paper [**KAIROS**](https://arxiv.org/pdf/2508.18321) is accepted by **ICLR 2026**.
 - *2026.01*: &nbsp;🎉🎉 I will attend AAAI 2026 at Singapore during Jan 22-27, 2026. Let's connect!
-- *2025.10*: &nbsp;🎉🎉 I will attend EMNLP 2025 at Suzhou during Nov 5-7, 2025. Let's connect!
-- *2025.07*: &nbsp;🎉🎉 [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) is selected as SAC Highlight at ACL 2025!
-- *2025.06*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) at ACL 2025 in Vienna, Austria.
-- *2025.05*: &nbsp;🎉🎉 Two papers [**RuleArena**](https://arxiv.org/pdf/2412.08972) and [**AntiLeak-Bench**](https://arxiv.org/pdf/2412.13670) are accepted by **ACL 2025 (Main)**.
-- *2025.04*: &nbsp;🎉🎉 I will present our work [**RuleArena**](https://arxiv.org/pdf/2412.08972) at ICLR 2025 Workshops (Reason&Plan, SCI-FM). Hope to see you there.
-- *2025.04*: &nbsp;🎉🎉 I will join National University of Singapore (NUS) for my Ph.D. journey, starting Aug. 2025.
 
 # 📝 Selected Publications
+
+<div class='paper-box-text' markdown="1" style="padding-top: 10px;">
+
+**<font color="navy">Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine</font>**
+
+Junyao Yang, Zongxia Li, Yucheng Shi, Zhongzhi Li, Ruhan Wang, **Ruiwen Zhou**, Haitao Mi, Shuicheng Yan, Leowei Liang
+
+***arXiv preprint*** &nbsp; \[ [Paper](https://arxiv.org/pdf/2610.22192) | [Code](https://github.com/jyyang26/Terminal-RSI/) \]
+</div>
+
+<br>
 
 <div class='paper-box-text' markdown="1" style="padding-top: 10px;">
 
@@ -166,7 +171,7 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 
 # ✉️ Academic Services
 
-- **Reviewer:** ICML (2026), NeurIPS (2026), ICLR (2026), ARR (2026), TPAMI.
+- **Reviewer:** ICML (2026), NeurIPS (2026), ICLR (2027), ARR (2026), TPAMI.
 - **Volunteer:** SIGIR (2024, Co-Hosting the GenIR Workshop)
 
 # 👀 Miscellaneous
