@@ -31,6 +31,7 @@ Feel free to reach out to me if you are interested in academic discussion / coll
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 One paper [**MemRL**](https://arxiv.org/pdf/2601.03192) is accepted by **NeurIPS 2026**.
 - *2026.06*: &nbsp;🎉🎉 I will attent ICML 2026 at Seoul during Jul 5-10, 2026. Let's connect!
+- *2026.04*: &nbsp;🎉🎉 I am awarded as a Golden Reviewer for ICML 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper [**KAIROS**](https://arxiv.org/pdf/2508.18321) is accepted by **ICLR 2026**.
 - *2026.01*: &nbsp;🎉🎉 I will attend AAAI 2026 at Singapore during Jan 22-27, 2026. Let's connect!
 
@@ -149,6 +150,7 @@ Xiaobao Wu, Liangming Pan, Yuxi Xie, **Ruiwen Zhou**, Shuai Zhao, Yubo Ma, Mingz
 <br>
 
 # 🎖 Honors and Awards
+- *2026.04* &nbsp;&nbsp; ICML 2026 Gold Reviewer.
 - *2025.08* &nbsp;&nbsp; NUS Research Scholarship.
 - *2024.11* &nbsp;&nbsp; Huatai Securities Scholarship (~Top 10% out of 179).
 - *2021.04* &nbsp;&nbsp; Outstanding Winner of MCM/ICM 2021 (~Top 0.15% among the world).
